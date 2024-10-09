@@ -1,6 +1,9 @@
 // import UseStateHook from "./components/UseStateHook"
 
-import Q3 from "./components/Question-three"
+import UseLayoutEffectExample from "./components/useEffect/Question3"
+
+
+
 
 // import Q1 from "./components/Question-One"
 // import Q2 from "./components/Question-two"
@@ -13,7 +16,10 @@ function App() {
      {/* <UseStateHook /> */}
      {/* <Q1 /> */}
      {/* <Q2 /> */}
-     <Q3 />
+     {/* <Q3 /> */}
+     {/* <Question1/> */}
+     {/* <TimerComponent /> */}
+     <UseLayoutEffectExample />
     </>
   )
 }
